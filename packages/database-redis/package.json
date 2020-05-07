@@ -33,7 +33,7 @@
   "license": "MIT",
   "devDependencies": {
     "@accounts/database-tests": "^0.25.1",
-    "@types/ioredis": "4.14.9",
+    "@types/ioredis": "4.16.1",
     "@types/jest": "25.1.4",
     "@types/lodash": "4.14.149",
     "@types/node": "13.9.8",
